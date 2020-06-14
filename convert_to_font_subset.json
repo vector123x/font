@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Facon",
+    "ttf": "Facon-2.ttf"
+  },
+  {
+    "name": "Muyao Softbrush",
+    "ttf": "Muyao-Softbrush.ttf",
+    "nameValues": {
+      "zh": "沐瑶软笔手写体",
+      "zh-tradition": "沐瑤軟筆手寫體"
+    }
+  },
+  {
+    "name": "RobotoMono",
+    "ttf": "RobotoMono-Bold.ttf"
+  },
+  {
+    "name": "SetoFont",
+    "ttf": "SetoFont-1.ttf",
+    "nameValues": {
+      "zh": "濑户字体",
+      "zh-tradition": "瀨戶字體"
+    }
+  },
+  {
+    "name": "Slidefu",
+    "ttf": "slideyouran-Regular-1.ttf",
+    "nameValues": {
+      "zh": "演示悠然小楷字体",
+      "zh-tradition": "演示悠然小楷字體"
+    }
+  },
+  {
+    "name": "Soukou Mincho",
+    "ttf": "SoukouMincho-2.ttf",
+    "nameValues": {
+      "zh": "装甲明朝体",
+      "zh-tradition": "裝甲明朝體"
+    }
+  },
+  {
+    "name": "Raleway",
+    "ttf": "Raleway-Regular-2.ttf"
+  },
+  {
+    "name": "Chunkfive Ex",
+    "ttf": "Chunkfive-Ex-1.ttf"
+  }
+]
