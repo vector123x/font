@@ -1,9 +1,5 @@
 [
   {
-    "name": "Facon",
-    "ttf": "Facon-2.ttf"
-  },
-  {
     "name": "Muyao Softbrush",
     "ttf": "Muyao-Softbrush.ttf",
     "nameValues": {
@@ -12,7 +8,7 @@
     }
   },
   {
-    "name": "RobotoMono",
+    "name": "Roboto Mono",
     "ttf": "RobotoMono-Bold.ttf"
   },
   {
@@ -44,7 +40,11 @@
     "ttf": "Raleway-Regular-2.ttf"
   },
   {
-    "name": "Chunkfive Ex",
-    "ttf": "Chunkfive-Ex-1.ttf"
+    "name": "SpaceMono",
+    "ttf": "SpaceMono-Regular.ttf"
+  },
+  {
+    "name": "Karla",
+    "ttf": "Karla-Regular.ttf"
   }
 ]
