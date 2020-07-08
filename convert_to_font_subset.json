@@ -46,5 +46,125 @@
   {
     "name": "Karla",
     "ttf": "Karla-Regular.ttf"
+  },
+  {
+    "name": "Abril Fatface",
+    "ttf": "AbrilFatface-Regular.ttf"
+  },
+  {
+    "name": "Archivo Black",
+    "ttf": "ArchivoBlack-Regular.ttf"
+  },
+  {
+    "name": "Archivo Narrow",
+    "ttf": "ArchivoNarrow-Regular.ttf"
+  },
+  {
+    "name": "Arvo",
+    "ttf": "Arvo-Regular.ttf"
+  },
+  {
+    "name": "B612",
+    "ttf": "B612-Regular.ttf"
+  },
+  {
+    "name": "Bio Rhyme Expanded",
+    "ttf": "BioRhymeExpanded-Regular.ttf"
+  },
+  {
+    "name": "Cairo",
+    "ttf": "Cairo-Regular.ttf"
+  },
+  {
+    "name": "Cardo",
+    "ttf": "Cardo-Regular.ttf"
+  },
+  {
+    "name": "Crimson Text",
+    "ttf": "CrimsonText-Regular.ttf"
+  },
+  {
+    "name": "Fjalla One",
+    "ttf": "FjallaOne-Regular.ttf"
+  },
+  {
+    "name": "Frank Ruhl Libre",
+    "ttf": "FrankRuhlLibre-Regular.ttf"
+  },
+  {
+    "name": "Lora",
+    "ttf": "Lora-VariableFont_wght.ttf"
+  },
+  {
+    "name": "Merriweather",
+    "ttf": "Merriweather-Regular.ttf"
+  },
+  {
+    "name": "Montserrat",
+    "ttf": "Montserrat-Regular.ttf"
+  },
+  {
+    "name": "Muli",
+    "ttf": "Muli-VariableFont_wght.ttf"
+  },
+  {
+    "name": "Nunito",
+    "ttf": "Nunito-Regular.ttf"
+  },
+  {
+    "name": "jf open huninn",
+    "ttf": "jf-openhuninn-1.1.ttf",
+    "nameValues": {
+      "zh": "jf open 粉圓",
+      "zh-tradition": "jf open 粉圓"
+    }
+  },
+  {
+    "name": "Oswald",
+    "ttf": "Oswald-VariableFont_wght.ttf"
+  },
+  {
+    "name": "Permanent Marker",
+    "ttf": "PermanentMarker-Regular.ttf"
+  },
+  {
+    "name": "Playfair Display",
+    "ttf": "PlayfairDisplay-VariableFont_wght.ttf"
+  },
+  {
+    "name": "PT Serif",
+    "ttf": "PTSerif-Regular.ttf"
+  },
+  {
+    "name": "Rakkas",
+    "ttf": "Rakkas-Regular.ttf"
+  },
+  {
+    "name": "Rock Salt",
+    "ttf": "RockSalt-Regular.ttf"
+  },
+  {
+    "name": "Rubik",
+    "ttf": "Rubik-Regular.ttf"
+  },
+  {
+    "name": "Spectral",
+    "ttf": "Spectral-Regular.ttf"
+  },
+  {
+    "name": "Titillium Web",
+    "ttf": "TitilliumWeb-Regular.ttf"
+  },
+  {
+    "name": "Varela Round",
+    "ttf": "VarelaRound-Regular.ttf"
+  },
+  {
+    "name": "Vollkorn",
+    "ttf": "Vollkorn-VariableFont_wght.ttf"
+  },
+  {
+    "name": "Yanone Kaffeesatz",
+    "ttf": "YanoneKaffeesatz-VariableFont_wght.ttf"
   }
 ]
