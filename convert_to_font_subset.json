@@ -5,11 +5,13 @@
     "nameValues": {
       "zh": "沐瑶软笔手写体",
       "zh-tradition": "沐瑤軟筆手寫體"
-    }
+    },
+    "isProFeature": true
   },
   {
     "name": "Roboto Mono",
-    "ttf": "RobotoMono-Bold.ttf"
+    "ttf": "RobotoMono-Bold.ttf",
+    "isProFeature": true
   },
   {
     "name": "SetoFont",
@@ -17,7 +19,8 @@
     "nameValues": {
       "zh": "濑户字体",
       "zh-tradition": "瀨戶字體"
-    }
+    },
+    "isProFeature": true
   },
   {
     "name": "Slidefu",
@@ -25,7 +28,8 @@
     "nameValues": {
       "zh": "演示悠然小楷字体",
       "zh-tradition": "演示悠然小楷字體"
-    }
+    },
+    "isProFeature": true
   },
   {
     "name": "Soukou Mincho",
@@ -33,83 +37,103 @@
     "nameValues": {
       "zh": "装甲明朝体",
       "zh-tradition": "裝甲明朝體"
-    }
+    },
+    "isProFeature": true
   },
   {
     "name": "Raleway",
-    "ttf": "Raleway-Regular-2.ttf"
+    "ttf": "Raleway-Regular-2.ttf",
+    "isProFeature": true
   },
   {
     "name": "SpaceMono",
-    "ttf": "SpaceMono-Regular.ttf"
+    "ttf": "SpaceMono-Regular.ttf",
+    "isProFeature": true
   },
   {
     "name": "Karla",
-    "ttf": "Karla-Regular.ttf"
+    "ttf": "Karla-Regular.ttf",
+    "isProFeature": true
   },
   {
     "name": "Abril Fatface",
-    "ttf": "AbrilFatface-Regular.ttf"
+    "ttf": "AbrilFatface-Regular.ttf",
+    "isProFeature": true
   },
   {
     "name": "Archivo Black",
-    "ttf": "ArchivoBlack-Regular.ttf"
+    "ttf": "ArchivoBlack-Regular.ttf",
+    "isProFeature": true
   },
   {
     "name": "Archivo Narrow",
-    "ttf": "ArchivoNarrow-Regular.ttf"
+    "ttf": "ArchivoNarrow-Regular.ttf",
+    "isProFeature": true
   },
   {
     "name": "Arvo",
-    "ttf": "Arvo-Regular.ttf"
+    "ttf": "Arvo-Regular.ttf",
+    "isProFeature": true
   },
   {
     "name": "B612",
-    "ttf": "B612-Regular.ttf"
+    "ttf": "B612-Regular.ttf",
+    "isProFeature": true
   },
   {
     "name": "Bio Rhyme Expanded",
-    "ttf": "BioRhymeExpanded-Regular.ttf"
+    "ttf": "BioRhymeExpanded-Regular.ttf",
+    "isProFeature": true
   },
   {
     "name": "Cairo",
-    "ttf": "Cairo-Regular.ttf"
+    "ttf": "Cairo-Regular.ttf",
+    "isProFeature": true
   },
   {
     "name": "Cardo",
-    "ttf": "Cardo-Regular.ttf"
+    "ttf": "Cardo-Regular.ttf",
+    "isProFeature": true
   },
   {
     "name": "Crimson Text",
-    "ttf": "CrimsonText-Regular.ttf"
+    "ttf": "CrimsonText-Regular.ttf",
+    "isProFeature": true
   },
   {
     "name": "Fjalla One",
-    "ttf": "FjallaOne-Regular.ttf"
+    "ttf": "FjallaOne-Regular.ttf",
+    "isProFeature": true
   },
   {
     "name": "Frank Ruhl Libre",
-    "ttf": "FrankRuhlLibre-Regular.ttf"
+    "ttf": "FrankRuhlLibre-Regular.ttf",
+    "isProFeature": true
   },
   {
     "name": "Lora",
-    "ttf": "Lora-VariableFont_wght.ttf"
+    "ttf": "Lora-VariableFont_wght.ttf",
+    "isProFeature": true
   },
   {
     "name": "Merriweather",
-    "ttf": "Merriweather-Regular.ttf"
+    "ttf": "Merriweather-Regular.ttf",
+    "isProFeature": true
   },
   {
     "name": "Montserrat",
-    "ttf": "Montserrat-Regular.ttf"
+    "ttf": "Montserrat-Regular.ttf",
+    "isProFeature": true
   },
   {
     "name": "Muli",
-    "ttf": "Muli-VariableFont_wght.ttf"
+    "ttf": "Muli-VariableFont_wght.ttf",
+    "isProFeature": true
   },
   {
     "name": "Nunito",
-    "ttf": "Nunito-Regular.ttf"
+    "ttf": "Nunito-Regular.ttf",
+    "isProFeature": true
   },
   {
     "name": "jf open huninn",
@@ -117,54 +141,67 @@
     "nameValues": {
       "zh": "jf open 粉圓",
       "zh-tradition": "jf open 粉圓"
-    }
+    },
+    "isProFeature": true
   },
   {
     "name": "Oswald",
-    "ttf": "Oswald-VariableFont_wght.ttf"
+    "ttf": "Oswald-VariableFont_wght.ttf",
+    "isProFeature": true
   },
   {
     "name": "Permanent Marker",
-    "ttf": "PermanentMarker-Regular.ttf"
+    "ttf": "PermanentMarker-Regular.ttf",
+    "isProFeature": true
   },
   {
     "name": "Playfair Display",
-    "ttf": "PlayfairDisplay-VariableFont_wght.ttf"
+    "ttf": "PlayfairDisplay-VariableFont_wght.ttf",
+    "isProFeature": true
   },
   {
     "name": "PT Serif",
-    "ttf": "PTSerif-Regular.ttf"
+    "ttf": "PTSerif-Regular.ttf",
+    "isProFeature": true
   },
   {
     "name": "Rakkas",
-    "ttf": "Rakkas-Regular.ttf"
+    "ttf": "Rakkas-Regular.ttf",
+    "isProFeature": true
   },
   {
     "name": "Rock Salt",
-    "ttf": "RockSalt-Regular.ttf"
+    "ttf": "RockSalt-Regular.ttf",
+    "isProFeature": true
   },
   {
     "name": "Rubik",
-    "ttf": "Rubik-Regular.ttf"
+    "ttf": "Rubik-Regular.ttf",
+    "isProFeature": true
   },
   {
     "name": "Spectral",
-    "ttf": "Spectral-Regular.ttf"
+    "ttf": "Spectral-Regular.ttf",
+    "isProFeature": true
   },
   {
     "name": "Titillium Web",
-    "ttf": "TitilliumWeb-Regular.ttf"
+    "ttf": "TitilliumWeb-Regular.ttf",
+    "isProFeature": true
   },
   {
     "name": "Varela Round",
-    "ttf": "VarelaRound-Regular.ttf"
+    "ttf": "VarelaRound-Regular.ttf",
+    "isProFeature": true
   },
   {
     "name": "Vollkorn",
-    "ttf": "Vollkorn-VariableFont_wght.ttf"
+    "ttf": "Vollkorn-VariableFont_wght.ttf",
+    "isProFeature": true
   },
   {
     "name": "Yanone Kaffeesatz",
-    "ttf": "YanoneKaffeesatz-VariableFont_wght.ttf"
+    "ttf": "YanoneKaffeesatz-VariableFont_wght.ttf",
+    "isProFeature": true
   }
 ]
